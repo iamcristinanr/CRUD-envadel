@@ -8,10 +8,10 @@ Develop a web application that allows performing CRUD operations (Create, Read, 
 ### Data Model
 A car must have at least the following fields:
 
-Brand (e.g., Toyota, Ford, etc.).
-Model (e.g., Corolla, Fiesta, etc.).
-Year.
-Color.
+- Brand (e.g., Toyota, Ford, etc.).
+- Model (e.g., Corolla, Fiesta, etc.).
+- Year.
+- Color.
 
 ### User Interface
 The graphical interface developed with Vaadin should allow the user to:
@@ -25,9 +25,9 @@ The graphical interface developed with Vaadin should allow the user to:
 Utilize MongoDB as the database management system and implement CRUD operations in the backend.
 
 ### Evaluation 
-Functionality: Compliance with CRUD operations.
-Source Code: Organization and documentation of the code.
-Interface Design: Cleanliness and usability of the user interface.
+- Functionality: Compliance with CRUD operations.
+- Source Code: Organization and documentation of the code.
+- Interface Design: Cleanliness and usability of the user interface.
 
 
 
